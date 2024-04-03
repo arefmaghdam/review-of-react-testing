@@ -1,0 +1,27 @@
+{
+  "name": "review-of-js-next.js-12",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "server": "json-server --watch db.json --port 5000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-alpha.23",
+    "next": "^12.3.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "20.12.3",
+    "@types/react": "18.2.74",
+    "typescript": "5.4.3"
+  }
+}
