@@ -8,6 +8,9 @@ const ReactTestingProvider = () => {
       <Link href="/components/testing/first-app-and-test">
         first-app-and-test
       </Link>
+      <Link href="/components/testing/tests-contents-of-first-app">
+        tests-contents-of-first-app
+      </Link>
     </div>
   );
 };
