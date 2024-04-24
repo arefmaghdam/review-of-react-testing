@@ -35,6 +35,7 @@ const ReactTestingProvider = () => {
       <Link href="/components/testing/app-development-optimization">
         app-development-optimization
       </Link>
+      <Link href="/components/testing/helper-function">helper-function</Link>
     </div>
   );
 };
