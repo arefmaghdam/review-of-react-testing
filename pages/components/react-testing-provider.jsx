@@ -38,6 +38,7 @@ const ReactTestingProvider = () => {
       <Link href="/components/testing/helper-function">helper-function</Link>
       <Link href="/components/testing/add-redux-to-app">add-redux-to-app</Link>
       <Link href="/components/testing/develope-actions">develope-actions</Link>
+      <Link href="/components/testing/reducers-tests">reducers-tests</Link>
     </div>
   );
 };
