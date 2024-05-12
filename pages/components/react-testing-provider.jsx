@@ -42,6 +42,9 @@ const ReactTestingProvider = () => {
       <Link href="/components/testing/input-component-development">
         input-component-development
       </Link>
+      <Link href="/components/testing/guessedword-state-development">
+        guessedword-state-development
+      </Link>
     </div>
   );
 };
