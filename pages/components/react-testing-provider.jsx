@@ -46,6 +46,7 @@ const ReactTestingProvider = () => {
         guessedword-state-development
       </Link>
       <Link href="/components/testing/add-axios-ao-app">add-axios-ao-app</Link>
+      <Link href="/components/testing/redux-testing">redux-testing</Link>
     </div>
   );
 };
