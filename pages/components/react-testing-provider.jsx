@@ -8,6 +8,7 @@ const ReactTestingProvider = () => {
       <div>
         <h3>React Testing Library</h3>
         <Link href="/components/react-testing/introduction">introduction</Link>
+        <Link href="/components/react-testing/setting-up">setting-up</Link>
       </div>
       <div>
         <h3>Enzyme</h3>
