@@ -12,6 +12,9 @@ const ReactTestingProvider = () => {
         <Link href="/components/react-testing/testing-rendering">
           testing-rendering
         </Link>
+        <Link href="/components/react-testing/testing-user-account">
+          testing-user-account
+        </Link>
       </div>
       <div>
         <h3>Enzyme</h3>
