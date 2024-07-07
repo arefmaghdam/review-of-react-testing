@@ -46,6 +46,21 @@ const SettingUp = () => {
     // Working with component libs like redixui and MUI
     // Techniques to simplify tests
     // Catching issues with ESLint
+    // What to test? testing components:
+    // there are 2 major concerns we need to test: 
+    // 1- how they render? component has props
+    // 2 - how they respond to user actions? component handles user events like clicks, keyboard, inputs and etc
+    // note that having no tests is better than writing bad tests
+    // test the behavior, not the implementation => we should test what our app does not how it's implemented
+    // if our component uses hooks, react context or reducers, these are all implementation details, we should not write tests against those details
+    // because if the implementation details change in the futureour tests may break even if our application still works fine 
+    // so for the most part shouldn't test building blocks like hooks and reducers in isoltion unless they're used by several componentsand have complex logic
+    // in those cases yes, it makes sense to unit test those pieces in isolationbut for the most part we should test them as part of testing our componentswhich is what we call integrationtesting
+    // you have probably seen this test pyramid before, the test pyramid suggests that we should write more more unit teststhan integration testsand more integration tests than endtoend tests
+    // this is just a guide not a strict rule, so when testing react aplicationswe often lean towards integration tests, our tests might be slowerthan unit testsbecause we'll be testing several units together
+    // but they give us better confidence that our application works plus our tests are less likely to break if we refactore some code as long as the end result stays the same
+    // don't test styles => the other thing you should avoid is testing styles, why? well, visual tests can be fragile a tiner style change like changing the font size or color can fail a test and honestly passing visual tests don't guarantee 
+    // that our application looks good that's a job for our own eyes so instead of wasting our time testing styles we should test our application's behavior and functionality that's where the real value is all right theory time is over
       `}
       />
     </div>
