@@ -9,6 +9,9 @@ const ReactTestingProvider = () => {
         <h3>React Testing Library</h3>
         <Link href="/components/react-testing/introduction">introduction</Link>
         <Link href="/components/react-testing/setting-up">setting-up</Link>
+        <Link href="/components/react-testing/testing-rendering">
+          testing-rendering
+        </Link>
       </div>
       <div>
         <h3>Enzyme</h3>
