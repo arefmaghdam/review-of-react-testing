@@ -6,6 +6,14 @@ const ReactTestingProvider = () => {
   return (
     <div className={styles.flexContainer}>
       <div>
+        <h3>Git and GitHub</h3>
+        <Link href="/components/git/introduction">introduction</Link>
+      </div>
+      <div>
+        <h3>Redux and Redux Toolkit</h3>
+        <Link href="/components/redux/introduction">introduction</Link>
+      </div>
+      <div>
         <h3>React Testing Library</h3>
         <Link href="/components/react-testing/introduction">introduction</Link>
         <Link href="/components/react-testing/setting-up">setting-up</Link>
@@ -14,6 +22,9 @@ const ReactTestingProvider = () => {
         </Link>
         <Link href="/components/react-testing/testing-user-account">
           testing-user-account
+        </Link>
+        <Link href="/components/react-testing/testing-lists">
+          testing-lists
         </Link>
       </div>
       <div>
