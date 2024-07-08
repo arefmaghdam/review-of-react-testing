@@ -26,6 +26,9 @@ const ReactTestingProvider = () => {
         <Link href="/components/react-testing/testing-lists">
           testing-lists
         </Link>
+        <Link href="/components/react-testing/testing-user-intractions">
+          testing-user-intractions
+        </Link>
       </div>
       <div>
         <h3>Enzyme</h3>
