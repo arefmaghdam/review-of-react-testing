@@ -8,6 +8,7 @@ const ReactTestingProvider = () => {
       <div>
         <h3>Git and GitHub</h3>
         <Link href="/components/git/history">history</Link>
+        <Link href="/components/git/git-usage">git-usage</Link>
       </div>
       <div>
         <h3>Redux and Redux Toolkit</h3>
