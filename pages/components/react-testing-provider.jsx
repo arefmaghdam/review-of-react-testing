@@ -13,6 +13,9 @@ const ReactTestingProvider = () => {
         <Link href="/components/git/basic-concepts-init">
           basic-concepts-init
         </Link>
+        <Link href="/components/git/basic-concepts-add">
+          basic-concepts-add
+        </Link>
       </div>
       <div>
         <h3>Redux and Redux Toolkit</h3>
