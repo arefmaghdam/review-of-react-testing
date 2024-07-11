@@ -7,7 +7,7 @@ const ReactTestingProvider = () => {
     <div className={styles.flexContainer}>
       <div>
         <h3>Git and GitHub</h3>
-        <Link href="/components/git/introduction">introduction</Link>
+        <Link href="/components/git/history">history</Link>
       </div>
       <div>
         <h3>Redux and Redux Toolkit</h3>
