@@ -30,7 +30,7 @@ const ReactTestingProvider = () => {
         <Link href="/components/git/git-flow">git-flow</Link>
       </div>
       <div>
-        <h3>Redux and Redux Toolkit</h3>
+        <h3>Redux Toolkit</h3>
         <Link href="/components/redux/introduction">introduction</Link>
       </div>
       <div>
