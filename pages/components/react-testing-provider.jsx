@@ -22,6 +22,9 @@ const ReactTestingProvider = () => {
         <Link href="/components/git/git-branch">git-branch</Link>
         <Link href="/components/git/git-merge">git-merge</Link>
         <Link href="/components/git/github-gitlab">github-gitlab</Link>
+        <Link href="/components/git/github-account-making">
+          github-account-making
+        </Link>
       </div>
       <div>
         <h3>Redux and Redux Toolkit</h3>
