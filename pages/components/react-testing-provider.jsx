@@ -35,6 +35,7 @@ const ReactTestingProvider = () => {
         <Link href="/components/redux/what-does-redux-solve">
           what-does-redux-solve
         </Link>
+        <Link href="/components/redux/redux-data-flow">redux-data-flow</Link>
       </div>
       <div>
         <h3>React Testing Library</h3>
