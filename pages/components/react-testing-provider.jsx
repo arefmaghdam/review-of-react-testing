@@ -25,6 +25,7 @@ const ReactTestingProvider = () => {
         <Link href="/components/git/github-account-making">
           github-account-making
         </Link>
+        <Link href="/components/git/github-push-pull">github-push-pull</Link>
       </div>
       <div>
         <h3>Redux and Redux Toolkit</h3>
