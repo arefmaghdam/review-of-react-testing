@@ -46,6 +46,9 @@ const ReactTestingProvider = () => {
         <Link href="/components/redux/adding-customer-slice">
           adding-customer-slice
         </Link>
+        <Link href="/components/redux/redux-toolkit-fetching">
+          redux-toolkit-fetching
+        </Link>
       </div>
       <div>
         <h3>React Testing Library</h3>
