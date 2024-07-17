@@ -50,6 +50,7 @@ const ReactTestingProvider = () => {
           redux-toolkit-fetching
         </Link>
         <Link href="/components/redux/redux-toolkit-query">RTK Query</Link>
+        <Link href="/components/redux/react-query">react-query</Link>
       </div>
       <div>
         <h3>React Testing Library</h3>
