@@ -72,6 +72,9 @@ const ReactTestingProvider = () => {
         <Link href="/components/react-testing/testing-user-intractions">
           testing-user-intractions
         </Link>
+        <Link href="/components/react-testing/simulating-user-events">
+          simulating-user-events
+        </Link>
       </div>
       <div>
         <h3>Enzyme</h3>
