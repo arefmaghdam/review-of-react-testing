@@ -85,6 +85,9 @@ const ReactTestingProvider = () => {
         <Link href="/components/react-testing/mocking-apis-testing">
           mocking-apis-testing
         </Link>
+        <Link href="/components/react-testing/authentication-testing">
+        authentication-testing
+        </Link>
         <Link href="/components/react-testing/optimization-of-tests">
           optimization-of-tests
         </Link>
