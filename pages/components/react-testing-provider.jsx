@@ -100,6 +100,9 @@ const ReactTestingProvider = () => {
         <Link href="/components/react-testing/vitest">vitest</Link>
         <Link href="/components/react-testing/TDD">TDD</Link>
         <Link href="/components/react-testing/BDD">BDD</Link>
+        <Link href="/components/react-testing/TDD-and-BDD-fusion">
+          TDD-and-BDD-fusion
+        </Link>
       </div>
       <div>
         <h3>Enzyme</h3>
